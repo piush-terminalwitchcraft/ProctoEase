@@ -95,7 +95,7 @@
 - Dev Tools Check
 - Multiple Tabs Check
 - Full Screen Check
-
+<!-- 
 <br />
 
 <table>
@@ -117,7 +117,7 @@
     </tr>
 </table>
 
-<br />
+<br /> -->
 
 Also, **ideas rejected**: These were rejcted due to false positives and unsurity of cheating.
 

@@ -81,10 +81,10 @@
   -  Face Verification
   -  Face Cover/Visibility
   -  Multiple People Detection
-<br />
+<!-- <br />
 
 <img src='./images/exam.png' alt='Start Exam' width="80%">
-<br />
+<br /> -->
 
 
 **Checks for cheating**

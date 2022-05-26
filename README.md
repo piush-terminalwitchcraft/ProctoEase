@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <img src="./client/src/assets/logofont.svg" width="20%" />
+  <img src="./client/src/assets/logo_procto_ease_no_background.png" width="20%" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 <br />
 
 <p align="center">
-  <img src="./images/landing_page.gif" alt="landing-page-gif" width="80%" />
+  <img src="./images/landing_page_.gif" alt="landing-page-gif" width="80%" />
 </p>
 
 <br />
@@ -37,46 +37,10 @@
 - [License](#license-)
 - [Authors](#authors)
 
-<br />
-
-### Problem we are trying to solve?
-
-Due to Covid 19, remote learning has been a constant and so have been online examinations. 
-<br />
-But proctoring has always been a task and cheating and unfair practices have always been a problem.
-<br />
-
-**Problems with the exisiting sytem?**
-
-The current solutions assumes to have 2 platforms 
-- One for testing purposes like Google Form for writing exams 
-- And another, video conferencing platforms like meet or zoom for manual proctoring.
-
-Our PS poses to develop an application that can automatically proctor and monitor students, without the need of manual proctoring - ie without a teacher's aid.
-
-### Market & User Research
-
-- On market research, the products available found, are paid.
-- On user research and feedback from students, UX of such platforms isn't upto the mark.
-- UX from the client's end isn't frictionless, it was expected by the client to upload questions on their platforms. 
-- The existing product doesn't seem to have an accessible Admin Dashboard.
-
-That's where we come into picture.
-<br />
-<br />
 
 ## Architecture and Design
 
-The tradeoff in a Hackathon: `Speed over quality`
-
-But something that we are proud of is, we tried to follow ideal software development practices.
-
-- Architecture
-- Design
-- Code
 <br />
-
-The presentation for Aankh can be found [here](https://docs.google.com/presentation/d/1h3WqCwEhf5xG7TsZ-yNuDoE9ybbFiaAMEsltQ3KrLEc/edit?usp=sharing).
 
 ### Architecture
 
@@ -88,11 +52,7 @@ The presentation for Aankh can be found [here](https://docs.google.com/presentat
 ### Design
 
 - The designs were built using [Figma](figma.com) and were brought to life with [React](https://beta.reactjs.org).
-- [Design Link](https://www.figma.com/file/pbuXQGcgFpsi2lgEbtllXf/aankh)
 
-<br />
-  <img src="./images/all_designs.svg" />
-<br />
 
 ## Demonstration
 
@@ -109,54 +69,10 @@ The presentation for Aankh can be found [here](https://docs.google.com/presentat
 <br />
 <br />
 
-**Register & Login**
-<br />
-
-<table>
-    <tr>
-        <td>
-            <img src='./images/register.png' alt='REGISTER'>
-        </td>
-        <td>
-            <img src='./images/login.png' alt='LOGIN'>
-        </td>
-    </tr>
-    <tr>
-        <td>
-          <p>User Registration - Face Verifacation to be done when exam starts.</p>
-        </td>
-        <td>
-          <p>User Login to start the exam.</p>
-        </td>
-    </tr>
-</table>
-
-<br />
 
 **Creating a Test and Dashbaord**
 
-<br />
 
-<table>
-    <tr>
-        <td>
-            <img src='./images/create.png' alt='Create Test'>
-        </td>
-        <td>
-            <img src='./images/dashboard.png' alt='Dashboard'>
-        </td>
-    </tr>
-    <tr>
-        <td>
-          <p>Creating a test and expecting a Google/Microsoft Form Link</p>
-        </td>
-        <td>
-          <p>Admin Dashboard: Tests arranged chronologically.</p>
-        </td>
-    </tr>
-</table>
-
-<br />
 
 **Start Exam**
 
@@ -170,11 +86,6 @@ The presentation for Aankh can be found [here](https://docs.google.com/presentat
 <img src='./images/exam.png' alt='Start Exam' width="80%">
 <br />
 
-**Building a chrome extension for track of tabs**
-
-<img src="https://user-images.githubusercontent.com/61280281/150633013-63494d63-13fd-4d97-8bed-b0700551cbe8.jpg" width="40%" />
-
-<br />
 
 **Checks for cheating**
 
@@ -215,34 +126,6 @@ Also, **ideas rejected**: These were rejcted due to false positives and unsurity
 - Mouse Tracking
 
 <br />
-
-<br />
-
-**Test Admin Dashboard**
-
-- The following warning logs, data and statistics will be emailed to the Admin after the test.
-
-<br />
-
-<table>
-    <tr>
-        <td>
-            <img src='./images/test_dashboard_1.png' alt='Test Dashboard'>
-        </td>
-        <td>
-            <img src='./images/test_dashboard_2.png' alt='Test Dashboard 2'>
-        </td>
-    </tr>
-    <tr>
-        <td>
-          <p>Test Dashboard: Admin can see statistics - no. of students with warnings and above the threshold.</p>
-        </td>
-        <td>
-          <p>Admin Dashboard: Admin can Terminate or Continue a students exam based on warnings.</p>
-        </td>
-    </tr>
-</table>
-
 
 <br />
 
@@ -379,11 +262,8 @@ server
 
 ### Authors
 
-- Vivek Namaye 
-  - [LinkedIn](https://www.linkedin.com/in/viveknamaye/)
-- Akshay Kanade 
-  - [LinkedIn](https://www.linkedin.com/in/akshaykanade/)
-- Tushar Nankani
-  - [Twitter](https://twitter.com/tusharnankanii) 
+- Abhinay Patil 
+  - [LinkedIn](https://www.linkedin.com/in/abhinay-patil-3b385422a/?locale=fr_FR)
+- Piush Paul
+  - [LinkedIn](https://www.linkedin.com/in/piush-paul-b40612208/)
 
-<sub>We are Team VAT, not Value Added Tax, but Vivek, Akshay and myself, Tushar.</sub>

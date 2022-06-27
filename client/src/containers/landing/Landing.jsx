@@ -1,18 +1,7 @@
 import React from 'react';
 import { Navbar, CtaButton, CommonInput } from './../../components';
 import infinite from './../../assets/infinite.svg';
-import lottieAnimation from './../../assets/data.json'
 import './landing.css';
-import Lottie from 'react-lottie'
-
-const lottieOptions = {
-	animationData: lottieAnimation,
-	loop: true, // default: true
-	autoplay: true, // default: true
-	rendererSettings: {
-	  preserveAspectRatio: "xMidYMid meet"
-	} 
-}
 
 const featureList = [
 	'Face Verification',
@@ -91,12 +80,7 @@ const Landing = () => {
 							</h1>
 						</div>
 						<div className="infinite">
-							{/* <img src={infinite} alt="infinite" /> */}
-							<Lottie
-							options={lottieOptions}
-							isStopped={true}
-							isPaused={false}
-							/>
+							<img src={infinite} alt="infinite" />
 						</div>
 
 						<div className="right-text">
